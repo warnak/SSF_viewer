@@ -35,3 +35,6 @@ Changing settings
 Notes
 
 - Please ensure that the `preproc.py` file, and the `ssf-viwer.sh` file are in the same directory.
+
+
+Made by Mukund (https://github.com/warnak) and Aditya (https://github.com/Maverick139)
