@@ -15,8 +15,8 @@ Requirements:
 
 Running the tool
 
-- After Installing dependencies as above, and unzipping the folder: `chmod +x ssf-viewer.sh`
-- and then to run : `./ssf-viewer.sh <path/to/file>`
+- After Installing dependencies as above, and unzipping the folder: `chmod +x ssf_viewer.sh`
+- and then to run : `./ssf_viewer.sh <path/to/file>`
 
 
 Viewing the Graphs
