@@ -1,5 +1,5 @@
 # SSF_viewer
-A visualization tool for SSF interchunk dependency data in Indian Languages
+A visualization tool for SSF (Shakti Standard Format) interchunk dependency data in Indian Languages
 
 
 This is a tool that cleans up SSF data according to the requirements by Graphviz, and plots it with the dependency relations on arcs, the chunks in UTF on nodes, and their POS Tags.
